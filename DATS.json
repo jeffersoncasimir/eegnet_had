@@ -1,0 +1,280 @@
+{
+  "title": "EEGManyLabs HajcakHolroyd2005 Resting State",
+  "description": "This dataset contains raw EEG resting-state recordings (eyes open, eyes closed) in BIDS format.\nThese data have been collected as part of an EEGManyLabs replication (study ID in heading),\nprior to the main replication task. Participants are healthy adults.",
+  "creators": [
+    {
+      "fullName": "",
+      "firstName": "",
+      "middleInitial": "",
+      "lastName": "",
+      "email": "",
+      "affiliations": [
+        {
+          "name": ""
+        }
+      ],
+      "roles": [
+        {
+          "value": "Principal Investigator"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/xxxx-xxxx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fullName": "Dominik Welke",
+      "firstName": "Dominik",
+      "lastName": "Welke",
+      "roles": [
+        {
+          "value": "Curator"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/xxxx-xxxx"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "EEG"
+      }
+    }
+  ],
+  "version": "1.0",
+  "privacy": "open",
+  "licenses": [
+    {
+      "name": "CC BY"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "EDF"
+      ],
+      "size": 17,
+      "unit": {
+        "value": "GB"
+      },
+      "access": {
+        "landingPage": "https://portal.cbrain.mcgill.ca/userfiles/5627957",
+        "authorizations": [
+          {
+            "value": "registered"
+          }
+        ]
+      }
+    }
+  ],
+  "primaryPublications": [
+    {
+      "title": "Revisiting the electrophysiological correlates of valence and expectancy in reward processing – A multi-lab replication",
+      "publicationVenue": "Psychophysiology",
+      "identifier": {
+        "identifier": "https://www.sciencedirect.com/science/article/pii/S0010945224003617"
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "value": "Resting state"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "279"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "2530"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "Bond University"
+        },
+        {
+          "value": "Central Institute of Mental Health Mannheim"
+        },
+        {
+          "value": "Erasmus University Rotterdam"
+        },
+        {
+          "value": "Goethe University Frankfurt/Main"
+        },
+        {
+          "value": "Medical School Hamburg"
+        },
+        {
+          "value": "CINPSI Neurocog IC Maule"
+        },
+        {
+          "value": "Ghent University"
+        },
+        {
+          "value": "University of Hamburg"
+        },
+        {
+          "value": "Leiden University"
+        },
+        {
+          "value": "University of Regensburg"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "Gold Coast"
+        },
+        {
+          "value": "Mannheim"
+        },
+        {
+          "value": "Rotterdam"
+        },
+        {
+          "value": "Frankfurt"
+        },
+        {
+          "value": "Hamburg"
+        },
+        {
+          "value": "Talca"
+        },
+        {
+          "value": "Ghent"
+        },
+        {
+          "value": "Hamburg"
+        },
+        {
+          "value": "Leiden"
+        },
+        {
+          "value": "Regensburg"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Australia"
+        },
+        {
+          "value": "Germany"
+        },
+        {
+          "value": "Netherlands"
+        },
+        {
+          "value": "Germany"
+        },
+        {
+          "value": "Germany"
+        },
+        {
+          "value": "Chile"
+        },
+        {
+          "value": "Belgium"
+        },
+        {
+          "value": "Germany"
+        },
+        {
+          "value": "Netherlands"
+        },
+        {
+          "value": "Germany"
+        }
+      ]
+    },
+    {
+      "category": "origin_consortium",
+      "values": [
+        {
+          "value": "EEGNet"
+        }
+      ]
+    },
+    {
+      "category": "registrationPage",
+      "values": [
+        {
+          "value": "https://eegnet.loris.ca/"
+        }
+      ]
+    },
+    {
+      "category": "logo",
+      "values": [
+        {
+          "value": "eegnet-logo_0.png"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Dominik Welke, D.Welke@leeds.ac.uk"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that local law or a relevant institutional authorization otherwise enables the deposit of these data in an open-access portal."
+        }
+      ]
+    }
+  ]
+}

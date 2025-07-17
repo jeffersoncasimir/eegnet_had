@@ -3,31 +3,16 @@
   "description": "This dataset contains raw EEG resting-state recordings (eyes open, eyes closed) in BIDS format.\nThese data have been collected as part of an EEGManyLabs replication (study ID in heading),\nprior to the main replication task. Participants are healthy adults.",
   "creators": [
     {
-      "fullName": "",
+      "fullName": "EEGManyLabs replication teams",
       "firstName": "",
       "middleInitial": "",
       "lastName": "",
       "email": "",
-      "affiliations": [
-        {
-          "name": ""
-        }
-      ],
       "roles": [
         {
           "value": "Principal Investigator"
         }
       ],
-      "extraProperties": [
-        {
-          "category": "ORCID",
-          "values": [
-            {
-              "value": "https://orcid.org/xxxx-xxxx"
-            }
-          ]
-        }
-      ]
     },
     {
       "fullName": "Dominik Welke",
@@ -43,7 +28,7 @@
           "category": "ORCID",
           "values": [
             {
-              "value": "https://orcid.org/xxxx-xxxx"
+              "value": "https://orcid.org/0000-0002-5529-1998"
             }
           ]
         }
@@ -127,7 +112,7 @@
       "category": "CONP_status",
       "values": [
         {
-          "value": "Canadian"
+          "value": "External"
         }
       ]
     },

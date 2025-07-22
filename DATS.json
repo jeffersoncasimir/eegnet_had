@@ -3,16 +3,7 @@
   "description": "This dataset contains raw EEG resting-state recordings (eyes open, eyes closed) in BIDS format.\nThese data have been collected as part of an EEGManyLabs replication (study ID in heading),\nprior to the main replication task. Participants are healthy adults.",
   "creators": [
     {
-      "fullName": "EEGManyLabs replication teams",
-      "firstName": "",
-      "middleInitial": "",
-      "lastName": "",
-      "email": "",
-      "roles": [
-        {
-          "value": "Principal Investigator"
-        }
-      ]
+      "name": "EEGManyLabs replication teams"
     },
     {
       "fullName": "Dominik Welke",
